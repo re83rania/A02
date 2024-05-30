@@ -1,13 +1,13 @@
 # A02
-- **Branch**: a lightweight movable pointer to a commit
-- **Clone**: a local version of a repository, including all commits and branches
-- **Commit**: a Git object, a snapshot of your entire repository compressed into a SHA
-- **Fetch**
-- **GIT**: an opensource, distributed version control system
-- **Github**: a platform for hosting and collaborating on Git repositories
-- **Merge**
-- **Merge Conflict**
-- **Push**
-- **Pull**
-- **Remote**: a common repository on GitHub that all team member use to exchange their changes
-- **Repository**
+- **Branch**: A lightweight movable pointer to a commit
+- **Clone**: A local version of a repository, including all commits and branches
+- **Commit**: A Git object, a snapshot of your entire repository compressed into a SHA
+- **Fetch**: To fetch and download content from a remote repository and immediately update the local repository to match that content
+- **GIT**: An opensource, distributed version control system
+- **Github**: A platform for hosting and collaborating on Git repositories
+- **Merge**: Git's way of putting a forked history back together again
+- **Merge Conflict**: A conflict arises when two separate branches have made edits to the same line in a file
+- **Push**: Used to upload local repository content to a remote repository
+- **Pull**: Used to fetch and download content from a remote repository and immediately update the local repository to match that content
+- **Remote**: A common repository on GitHub that all team member use to exchange their changes
+- **Repository**: A place where you can store your code, your files, and each file's revision history
